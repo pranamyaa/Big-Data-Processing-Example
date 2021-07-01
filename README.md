@@ -1,4 +1,4 @@
-# Big Data Processing Example : Java MapReduce program over AWS EMR 
+# Big Data Processing Example : Java Maven based MapReduce program over AWS EMR 
 
 Developed a Java based MapReduce program over AWS EMR to perform below Tasks:
 
